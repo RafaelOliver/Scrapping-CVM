@@ -1,1 +1,1 @@
-# Scrapping-CVM
+# Foi solicitado pelo cliente, para desenvolver um app que extraissem os dados do Site CVM - Link [https://cvmweb.cvm.gov.br/SWB/default.asp?sg_sistema=fundosreg], no projeto foi utilizado 2 formas para realizar a extração dos dados, 1º Usando Selenium e a 2º Sobre requisições.
